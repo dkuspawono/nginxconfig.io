@@ -132,3 +132,4 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [DigitalOcean, Inc &lt;contact@digitalocean.com&gt; (https://www.digitalocean.com)](https://www.digitalocean.com).
 <br />
 This project is licensed under the [MIT](https://github.com/digitalocean/nginxconfig.io/blob/master/LICENSE) license.
+:stars:
